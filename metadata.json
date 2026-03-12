@@ -1,0 +1,5 @@
+{
+  "name": "Campus Gate Pass System",
+  "description": "Digital Gate Pass & Visitor Management System for campus security.",
+  "requestFramePermissions": ["camera"]
+}
